@@ -1,0 +1,15 @@
+{
+  "name": "vndly",
+  "version": "1.0.0",
+  "description": "PROBLEM TWO: SALES TAXES",
+  "main": "app.js",
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^26.4.2"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC"
+}
